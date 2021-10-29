@@ -1,9 +1,5 @@
 <?php
-	// SQL Tutorial - BestJobsLK.com
-	// Version: 5
-	// Updated on: 2021-04-23 by Dileep
-	// Last updated:
-	// mysqli_fetch_row
+	// SQL Tutorial 
 	// Query History
 ?>
 <?php session_start(); ?>
