@@ -138,7 +138,7 @@
    
         <!-- /. PAGE INNER  -->
             </div>
-        <!-- /. PAGE WRAPPER  -->
+        <!-- /. PAGE WRAPPER 1  -->
 		
 		
 <!-- Form Validation Plugins /Start -->
