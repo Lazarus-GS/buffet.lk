@@ -1,7 +1,7 @@
 # buffet.lk
 ## Online Restaurant Management System 
 
-* Freameworks - Laravel,Boostrap Studio
+* Freameworks - CodeIgniter, Boostrap Studio
 * Xampp
 * Html
 * PHP
