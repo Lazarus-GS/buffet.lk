@@ -91,7 +91,7 @@
       </li>
 	  <!--Language Settings-->  
 	  
-	  <!--Loyality Points-->  
+	  <!--Loyality Points
       <li>
          <a <?php if(isset($activemenu) && $activemenu==ACTIVE_LOYALITY_POINTS) echo 'class="active-menu"';?> href="#"><i class="fa fa-gift fa-3x"></i> <?php echo get_languageword('loyality_points');?> </a>
          <ul class="sidebar-submenu">
@@ -99,7 +99,7 @@
             <li><a <?php if(isset($actv_submenu) && $actv_submenu=='reward_points') echo 'class="active-menu"';?> href="<?php echo URL_USER_REWARD_POINTS;?>"> <?php echo get_languageword('user_reward_points');?> </a></li>
          </ul>
       </li>
-	  <!--Loyality Points-->  
+	  Loyality Points-->  
 	  
 	  <!--REFERRAL SETTINGS-->  
       <li>
